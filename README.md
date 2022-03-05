@@ -28,3 +28,10 @@ expected variations in the collected spectra. Each model is studied with differe
 
 ### Deep learning prediction
 ![Deep learning results](figures/Figure3_Deep_learning_results.png)
+
+Please refer to our paper for more details
+
+### How to use
+'''
+git clonehttps://github.com/zhuofachen/Raman_deep_learning.git
+'''
