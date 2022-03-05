@@ -37,4 +37,5 @@ Clone our repository using the following
 git clone https://github.com/zhuofachen/Raman_deep_learning.git
 ```
 
-To run the Deep Learning models, please refer to `src/deep_learning_src/CNN_Benchmarks.ipynb`
+- To run the Machine Learning models, please refer to `src/machine_learning_src/machine_learning_models_applications.ipynb`
+- To run the Deep Learning models, please refer to `src/deep_learning_src/CNN_Benchmarks.ipynb`
