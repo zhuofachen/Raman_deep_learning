@@ -32,6 +32,6 @@ expected variations in the collected spectra. Each model is studied with differe
 Please refer to our paper for more details
 
 ### How to use
-'''
-git clonehttps://github.com/zhuofachen/Raman_deep_learning.git
-'''
+```
+git clone https://github.com/zhuofachen/Raman_deep_learning.git
+```
