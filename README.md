@@ -25,4 +25,4 @@ The impact of the environment on graphene's properties such as strain, charge de
 
 
 ### Deep learning prediction
-![Deep learning results](figures/Figure2_Deep_learning_results.png)
+![Deep learning results](figures/Figure3_Deep_learning_results.png)
