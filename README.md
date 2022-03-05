@@ -20,18 +20,21 @@ expected variations in the collected spectra. Each model is studied with differe
 ![Flowchart](figures/Flowchart_of_experimental_design.png)
 
 
-### Machine learning prediction
+### Machine Learning Performance
 ![Machine learning results](figures/Figure2_machine_learning_results.png)
 
 
 
 
-### Deep learning prediction
+### Deep Learning Performance
 ![Deep learning results](figures/Figure3_Deep_learning_results.png)
 
 Please refer to our paper for more details
 
 ### How to use
+Clone our repository using the following
 ```
 git clone https://github.com/zhuofachen/Raman_deep_learning.git
 ```
+
+To run the Deep Learning models, please refer to `src/deep_learning_src/CNN_Benchmarks.ipynb`
