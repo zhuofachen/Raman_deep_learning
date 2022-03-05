@@ -15,8 +15,10 @@ The impact of the environment on graphene's properties such as strain, charge de
 ![schematic_of_experiment](figures/Figure1_schematic_of_experiment.png)
 
 ### Flowchart of this work
- Before feeding into any models, all the raw data is rescaled and the cosmic rays are removed. In the data augmentation step, we applied peak shifting to better capture all
-expected variations in the collected spectra. Each model is studied with different noise levels. 5 different machine learning models (SVM, RF, KNN, DT, NB) and 4 different deep learning models (CNN, FullCNN, FC, and MHCNN) are implemented. All the models are trained, tuned, and optimized and the optimal performances are compared. 
+- Before feeding the data into any models, it is rescaled and cosmic rays are removed. 
+- To capture all expected variations in the collected spectra, we make use of data augmentation. This includes peak shifting and additive noise (5 different noise levels). 
+- 5 different machine learning models (SVM, RF, KNN, DT, NB) and 4 different deep learning models (CNN, FullCNN, FC, and MHCNN) are implemented. 
+- All the models are trained, tuned, and optimized and the optimal performances are compared. 
 ![Flowchart](figures/Flowchart_of_experimental_design.png)
 
 
